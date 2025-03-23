@@ -1,6 +1,6 @@
 # 🤖 Desafio Cogniia
 
-Este repositório contém a solução para o desafio técnico proposto pela Cognia. O objetivo deste desafio é demonstrar habilidades técnicas, boas práticas de desenvolvimento e a capacidade de criar uma arquitetura escalável e bem documentada.
+Este repositório contém minha solução para o **desafio técnico da Cognia**, que consistiu em desenvolver um **aplicativo de conversa com IA** em **2 semanas**, utilizando as tecnologias explicitamente solicitadas: **Golang/Fiber** para o backend, **Python/FastAPI/LangGraph** para a integração com IA e **React/Next.js** para o frontend. Segui boas práticas de desenvolvimento, garantindo uma arquitetura escalável e bem documentada.
 
 ## 🌐 Como acessar o projeto?
 Abra cada um dos repositórios abaixo e realize as tarefas descritas no readme.md.
