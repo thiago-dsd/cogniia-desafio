@@ -3,10 +3,10 @@
 Este repositório contém minha solução para o **desafio técnico da Cognia**, que consistiu em desenvolver um **aplicativo de conversa com IA** em **2 semanas**, utilizando as tecnologias explicitamente solicitadas: **Golang/Fiber** para o backend, **Python/FastAPI/LangGraph** para a integração com IA e **React/Next.js** para o frontend. Segui boas práticas de desenvolvimento, garantindo uma arquitetura escalável e bem documentada.
 
 ## Apresentação do projeto!
-[![Apresentação projeto](https://img.youtube.com/vi/d_sqvS9-OzU&t=2s/0.jpg)](https://www.youtube.com/watch?v=d_sqvS9-OzU&t=2s)
+[![Apresentação do projeto!](https://img.youtube.com/vi/d_sqvS9-OzU/0.jpg)](https://www.youtube.com/watch?v=d_sqvS9-OzU)
 
 ## Como rodar o projeto, na prática?
-[![Apresentação projeto](https://img.youtube.com/vi/_7Y26BJuCzQ/0.jpg)](https://www.youtube.com/watch?v=_7Y26BJuCzQ)
+[![Como rodar o projeto, na prática?](https://img.youtube.com/vi/_7Y26BJuCzQ/0.jpg)](https://www.youtube.com/watch?v=_7Y26BJuCzQ)
 
 ## 🌐 Como acessar o projeto?
 Abra cada um dos repositórios abaixo e realize as tarefas descritas no readme.md.
